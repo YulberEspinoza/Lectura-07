@@ -7,7 +7,7 @@
    Por que de una forma como en el caso del html, hay demasiado código y quitamos muchos recursos y saturamos el procesador.
    
 3. Enumera y describe 3 diferentes elementos semánticos HTML utilizados en un <table>.
-   EL el "<table>" se ultizan los siguientes:
+   EL el "table" se ultizan los siguientes:
    - tbody
    - th
    - tr
