@@ -8,9 +8,9 @@
    
 3. Enumera y describe 3 diferentes elementos semánticos HTML utilizados en un <table>.
    EL el <table> se ultizan los siguientes:
-   - <tbody></tbody>
-   - <th><th/>
-   - <tr></tr>
+   - "<tbody></tbody>"
+   - "<th><th/>"
+   - "<tr></tr>"
 
 1. ¿Qué es un constructor y cuáles son las ventajas de utilizarlo?
    Un constructor nos ayuda para inicializar las variables de un objeto y las ventajas que nos proporciona es acortar el código ya que nos basamos en una función.
