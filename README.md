@@ -19,5 +19,6 @@
    - En un obejto literal se utiliza para asignar de forma directa.
    - Y en un constructor es para asiganar a una variable y su principal acción es instanciar. 
 
-Explica los prototipos y las herencias por medio de una analogía sobre tu experiencia laboral previa.
+
+## Explica los prototipos y las herencias por medio de una analogía sobre tu experiencia laboral previa.
 En un experiencia labolar el hecho de delegar funciones podría ser un caso de prototipos y herencia.
