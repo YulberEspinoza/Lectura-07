@@ -7,7 +7,7 @@
    Por que de una forma como en el caso del html, hay demasiado código y quitamos muchos recursos y saturamos el procesador.
    
 3. Enumera y describe 3 diferentes elementos semánticos HTML utilizados en un <table>.
-   EL el <table> se ultizan los siguientes:
+   EL el "<table>" se ultizan los siguientes:
    - "<tbody></tbody>"
    - "<th><th/>"
    - "<tr></tr>"
@@ -20,5 +20,4 @@
    - Y en un constructor es para asiganar a una variable y su principal acción es instanciar. 
 
 Explica los prototipos y las herencias por medio de una analogía sobre tu experiencia laboral previa.
-
 En un experiencia labolar el hecho de delegar funciones podría ser un caso de prototipos y herencia.
